@@ -1,0 +1,16 @@
+h1 {
+    color: #2c3e50; 
+    font-family: 'Arial', sans-serif; 
+    text-align: center; 
+    margin-top: 50px; 
+    font-size: 2.5rem; 
+  }
+  
+  p {
+    color: #34495e; 
+    font-family: 'Verdana', sans-serif; 
+    text-align: center; 
+    font-size: 1.2rem; 
+    margin-top: 20px; 
+  }
+  
